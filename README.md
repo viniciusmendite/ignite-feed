@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/viniciusmendite/ignite-feed/blob/master/assets/ignite-logo.svg" align="center" /> Ignite Feed</h1>
+<h1 align="center"><img src="https://github.com/viniciusmendite/ignite-feed/blob/master/src/assets/ignite-logo.svg" align="center" /> Ignite Feed</h1>
 
 Uma aplicação React utilizando o Vite e contendo os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de ter o TypeScript no projeto para adicionar tipagem estática à aplicação.
 

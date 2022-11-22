@@ -13,7 +13,6 @@ De que ferramentas preciso para executar a aplicação?
 ```
 Git
 Node.js
-Yarn
 VS Code
 ```
 
@@ -30,11 +29,11 @@ git clone https://github.com/viniciusmendite/ignite-feed.git
 Instale as dependências:
 
 ```
-yarn
+npm install
 ```
 
 Execute a aplicação:
 
 ```
-yarn dev
+npm run dev
 ```
